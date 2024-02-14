@@ -1,7 +1,7 @@
 ####################################################################################
 ##################                                                ##################
-##################                  1SLR_Screening                 ##################
-##################          Nudge and Framing during COVID-19     ##################
+##################                  SLR_Screening                 ##################
+##################                                                ##################
 ####################################################################################
 # Project Showcase Notice ----
 #This repository contains code and materials for the purpose of showcasing the project. Please note that sensitive and official parts of the project have been either partially or totally removed.
@@ -90,7 +90,7 @@ nrow (env_articles) # n = 186
 
 
 
-# Review article of MA 
+# Review article  
 library(metagear)
 getw
 
