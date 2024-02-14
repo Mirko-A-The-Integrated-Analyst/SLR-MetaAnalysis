@@ -1,7 +1,7 @@
 # Systematic Literature Review & Meta-Analysis
 Evaluation of the effectiveness of interventions in persuading citizens’ COVID-19 compliance across 10 countries. 
 
-# Project Showcase Notice
+## Project Showcase Notice
 This repository contains code and materials for the purpose of showcasing the project. Please note that sensitive and official parts of the project have been either partially or totally removed to protect proprietary information and adhere to privacy and security guidelines.
 
 Purpose
